@@ -9,3 +9,18 @@
   margin-right: 20px;
   list-style: none;
 }
+
+.linkedin:hover {
+  transition: .5s ease all;
+  color: rgb(112, 181, 249);
+}
+
+.github:hover {
+  transition: .5s ease all;
+  color: #9DA7B3;
+}
+
+.youtube:hover {
+  transition: .5s ease all;
+  color: #FF0000;
+}
