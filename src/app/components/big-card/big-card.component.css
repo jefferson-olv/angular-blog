@@ -9,7 +9,7 @@
   justify-content: flex-start;
 }
 
-.big-card-photo > img {
+.big-card-photo > a > img{
   width: 100%;
   min-width: 500px;
 }
@@ -23,7 +23,7 @@
   margin-top: 10px;
 }
 
-.big-card-description > p > a{
+.big-card-description > p{
   color: grey;
 }
 
